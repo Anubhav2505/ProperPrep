@@ -10,9 +10,9 @@
 
 ## 🌟 About
 
-1 .Educational app for the students preparing for engineering and medical entrance exams.
-2. This app will help in the proper preparation of the student and its main focus is on intense practice
-3 .This app is built by using Java , AndroidStudio and firebase.
+- [ ] Educational app for the students preparing for engineering and medical entrance exams.
+- [ ] This app will help in the proper preparation of the student and its main focus is on intense practice
+- [ ] This app is built by using Java , AndroidStudio and firebase.
 
 ## ✨ Screenshots
 
@@ -20,10 +20,8 @@
 
 
 ## 📃 Status
-- [ ] Need to implement info fragment.
-- [ ] Add loader while live location is being fetched.
+- [ ] Need to implement Analyse Progress Feature.
 - [ ] Work on push Notification.
-- [ ] Make some changes in the Dark-Mode.
 
 
 
